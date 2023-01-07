@@ -44,6 +44,7 @@
 }
 .myfailure{
     display:flex;
+
 }
 .faillre-title{
     font-family:'Work Sans';
@@ -66,5 +67,50 @@ label{
 }
 .faillure-description{
     margin-top: 300px;
+    padding:30px
    
 }
+.plans{
+    font-family: 'Work Sans';
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 47px;
+    margin-top: 100px;
+}
+.plans-im{
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+    padding:60px 110px 60px 110px;
+    
+}
+.watch-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding: 50px;
+}
+.watch{
+    background:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url('../images/watch.png');
+    position: absolute;
+    width: 1050px;
+    height: 300px;
+    margin-left: 150px;
+}
+.btn2{
+    font-style: normal;
+    width:130px;
+    height:50px;
+    color:orangered;
+    background-color:white;
+    border:none;
+    line-height:20px;
+    margin-left: 50px;
+
+}
+
