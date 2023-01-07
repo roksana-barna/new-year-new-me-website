@@ -42,3 +42,29 @@
     line-height:20px;
     margin:14px 0;
 }
+.myfailure{
+    display:flex;
+}
+.faillre-title{
+    font-family:'Work Sans';
+    font-style:normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color:#151414; 
+
+}
+.faillure-p{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+margin:15px  0;
+}
+label{
+    line-height: 30px;
+}
+.faillure-description{
+    margin-top: 300px;
+   
+}
