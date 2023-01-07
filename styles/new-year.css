@@ -97,7 +97,6 @@ label{
 }
 .watch{
     background:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url('../images/watch.png');
-    position: absolute;
     width: 1050px;
     height: 300px;
     margin-left: 150px;
@@ -111,6 +110,69 @@ label{
     border:none;
     line-height:20px;
     margin-left: 50px;
+}
+.future{
+    display:flex;
+    background-color: #151414;
+    color: #FFFFFF;
+    padding:100px 200px 100px 200px;
+    justify-content: space-around;
+}
+.future-head{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+}
+.future-description{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin:20px 0;
+}
+.email-info{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin: 10px 0;
+}
+.icon{
+    margin:10px;
+}
+.subs{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom: 20px;
+}
+.btn3{
+    font-style: normal;
+    width:130px;
+    height:50px;
+    color:orangered;
+    background-color:white;
+    border:none;
+    line-height:20px;
+    margin-top: 10px;
 
 }
+.email{
+    margin-bottom:30px;
+    background-color: #151414;
+
+}
+
+
+
+
+
+
+
+
+
+
 
